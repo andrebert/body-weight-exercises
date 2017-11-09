@@ -1,6 +1,6 @@
 
 
-# body-weight-exercises
+# An Open, Labeled Dataset for Analysis and Assessment of Human Motion
 Dataset with acceleration and rotation data of 8 different body weight exercises from 26 different users. All in all more than 11,000 individual repetitions. 
 
 RELEASE 1.0
